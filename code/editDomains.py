@@ -1,4 +1,4 @@
-# Import and set parameters 
+# LOAD
 import arcpy
 import pandas 
 arcpy.env.workspace = 'C:/Temp/domainEdit'  # PATH 
